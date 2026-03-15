@@ -1,6 +1,8 @@
 # PEI-Assessment-Bhuvaneshwaran-E
-QA assessment for Sales data validation
+Assessment for QA Engineer role
+
+This repository contains the QA assessment for Sales Data Validation.
 
 Files included:
-- Excel sheet having Test Plan and Test Cases 
-- Python Data comparison scripts
+- Excel file containing Test Plan, Test Cases, and Test Evidence
+- Python script used for source file and Databricks table data comparison
